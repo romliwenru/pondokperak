@@ -1,5 +1,5 @@
 const CACHE_NAME = 'offline';
-const OFFLINE_URL = 'https://cdn.statically.io/gh/romliwenru/pondokperak/main/offline.html';
+const OFFLINE_URL = 'https://www.pondokperak.com/p/offline.html';
 
 self.addEventListener('install', function(event) {
   console.log('[ServiceWorker] Install');
